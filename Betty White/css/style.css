@@ -1,0 +1,54 @@
+body{
+	color: white;
+	background-color: rgba(61,61,61,1);
+	width: 650px;
+	margin: 20px auto 20px auto; /* top/bottom auto right/left */
+	
+}
+
+
+article {
+	padding: 40px;
+	border: grey 1px solid;
+	
+}
+
+
+h1
+{
+	font-family:serif;
+	color: white;
+}
+
+h2,nav {
+	font-family: sans-serif;
+	color: #08702e;
+}
+
+p {
+	font-family: sans-serif 14px;
+	line-height: 1.5;
+	
+}
+
+img {
+	float: right;
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid;
+}
+
+nav li {
+	display: inline;
+	text-align: center;
+}
+
+a {
+	color: #15cb97;
+}
+
+nav {
+	text-align: center;
+
+}
+
